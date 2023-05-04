@@ -1,0 +1,157 @@
+﻿Diagnose log at 2023-05-04T13:30:04Z
+
+AppPath: /usr/local/bin/git-credential-manager
+InstallDir: /usr/local/share/gcm-core/
+Version: 2.0.931+f99d745b98
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: macOS
+OSVersion: 13.3.1
+Reading environment variables... OK
+ Variables:
+FIG_PID=4700
+TERM_PROGRAM=Apple_Terminal
+TERM_SESSION_ID=7F0288DE-F65E-4397-A9DD-6F592F7591B4
+_=/usr/local/bin/git-credential-manager
+LC_FIG_SET_PARENT=834e5ed2-9948-4648-b1cc-585df9b2e0c6
+LANG=fr_FR.UTF-8
+PATH=/opt/local/bin:/opt/local/sbin:/opt/homebrew/bin:/opt/homebrew/sbin:/Library/Frameworks/Python.framework/Versions/3.11/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Wireshark.app/Contents/MacOS:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Users/harvald/.fig/bin:/Users/harvald/.local/bin
+FIG_SET_PARENT=834e5ed2-9948-4648-b1cc-585df9b2e0c6
+GIT_TRACE2_PARENT_SID=53436878-c053-4f72-820f-fee47b97f28a
+TMPDIR=/var/folders/yn/qx1ts4jn59s7b68zt3gknnvm0000gn/T/
+XPC_SERVICE_NAME=0
+SHELL=/bin/zsh
+__CFBundleIdentifier=com.apple.Terminal
+TTY=/dev/ttys001
+SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.ot7jxxbWGn/Listeners
+TERM_PROGRAM_VERSION=447
+FIGTERM_SESSION_ID=834e5ed2-9948-4648-b1cc-585df9b2e0c6
+HOME=/Users/harvald
+OLDPWD=/Users/harvald/blog
+SHLVL=1
+HOMEBREW_CELLAR=/opt/homebrew/Cellar
+HOMEBREW_REPOSITORY=/opt/homebrew
+HOMEBREW_PREFIX=/opt/homebrew
+MANPATH=/opt/local/share/man:/opt/homebrew/share/man::
+__CF_USER_TEXT_ENCODING=0x1F5:0x0:0x1
+TERM=xterm-256color
+USER=harvald
+FIG_TERM=2.15.0
+XPC_FLAGS=0x0
+INFOPATH=/opt/homebrew/share/info:
+PWD=/Users/harvald/blog/echoppedunet
+LOGNAME=harvald
+FIG_SET_PARENT_CHECK=1
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is '/var/folders/yn/qx1ts4jn59s7b68zt3gknnvm0000gn/T/'...
+Checking basic file I/O...
+Writing to temporary file '/var/folders/yn/qx1ts4jn59s7b68zt3gknnvm0000gn/T/83fb47aaaf03fa31c2d7f469'... OK
+Reading from temporary file '/var/folders/yn/qx1ts4jn59s7b68zt3gknnvm0000gn/T/83fb47aaaf03fa31c2d7f469'... OK
+Deleting temporary file '/var/folders/yn/qx1ts4jn59s7b68zt3gknnvm0000gn/T/83fb47aaaf03fa31c2d7f469'... OK
+Testing IFileSystem instance...
+UserHomePath: /Users/harvald
+UserDataDirectoryPath: /Users/harvald/.gcm
+GetCurrentDirectory(): /Users/harvald/blog/echoppedunet
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com... OK
+Sending HEAD request to https://example.com... OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:49265/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.39.2 (Apple Git-143)'
+Locating current repository... OK
+Git repository at '/Users/harvald/blog/echoppedunet/.git'
+Listing all Git configuration... OK
+Git configuration:
+file:/Applications/Xcode.app/Contents/Developer/usr/share/git-core/gitconfig	credential.helper=osxkeychain
+file:/Applications/Xcode.app/Contents/Developer/usr/share/git-core/gitconfig	init.defaultbranch=main
+file:/Users/harvald/.gitconfig	harvxld.harvald.couzinet@gmail.com=harvald.couzinet@gmail.com
+file:/Users/harvald/.gitconfig	user.email=harvald.couzinet@gmail.com
+file:/Users/harvald/.gitconfig	user.name=harvxld
+file:/Users/harvald/.gitconfig	credential.helper=
+file:/Users/harvald/.gitconfig	credential.helper=/usr/local/share/gcm-core/git-credential-manager
+file:/Users/harvald/.gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=true
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.ignorecase=true
+file:.git/config	core.precomposeunicode=true
+file:.git/config	submodule.themes/PaperMod.url=https://github.com/adityatelange/hugo-PaperMod.git
+file:.git/config	submodule.themes/PaperMod.active=true
+file:.git/config	remote.blog-edn.url=hxrvald/blog-edn
+file:.git/config	remote.blog-edn.fetch=+refs/heads/*:refs/remotes/blog-edn/*
+file:.git/config	remote.origin.url=git@github.com:harvxld/blog-edn.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker not supported.
+Flow type is: Auto
+Gathering MSAL token cache data... OK
+CacheDirectory: /Users/harvald/.local/.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: /Users/harvald/.local/.IdentityService/msal.cache
+MacKeyChainAccountName: MSALCache
+MacKeyChainServiceName: Microsoft.Developer.IdentityService
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: True
+Exception: None
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint... OK
+
