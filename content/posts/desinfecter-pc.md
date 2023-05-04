@@ -16,7 +16,8 @@ draft: false
 
 Vous désirez un guide complet pour nettoyer votre ordinateur ? Je vous ai compilé les meilleures pratiques pour y arriver.
 
-**Sachez tout de même qu'il est parfois difficile de supprimer entièrement un malware récalcitrant et qu'il est toujours mieux de faire une installation propre du système pour être sûr.** <br/> Notez que l'outil de réinitialisation Windows ne fait PAS d'installation propre. Il faudra utiliser l'outil [Media Creation Tool](https://www.microsoft.com/fr-fr/software-download/windows10ISO). <br/> <br/>
+**Sachez tout de même qu'il est parfois difficile de supprimer entièrement un malware récalcitrant et qu'il est toujours mieux de faire une installation propre du système pour être sûr.** 
+<br/> Notez que l'outil de réinitialisation Windows ne fait PAS d'installation propre. Il faudra utiliser l'outil [Media Creation Tool](https://www.microsoft.com/fr-fr/software-download/windows10ISO). <br/> <br/>
 J'aimerai vous partager quelques ressources qui pourront vous aider à dépanner vos problèmes d'informatiques.\
 Elles ont servies d'inspiration pour l'écriture de ce guide.
 
