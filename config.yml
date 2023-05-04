@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Echoppe du Net
-  description: "ExampleSite description"
+  description: "echoppe du net"
   keywords: [Blog, Portfolio, PaperMod]
   author: harvald
   # author: ["Me", "You"] # multiple authors
@@ -73,8 +73,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Salut \U0001F44B"
-    Content: Bienvenue !
+    Title: "Bienvenue à l'Echoppe \U0001F44B"
+    Content: Prend 5 minutes pour lire un article :)
 
   socialIcons:
     - name: twitter
