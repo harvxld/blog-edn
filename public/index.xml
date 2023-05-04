@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Echoppe du Net</title>
+    <link>https://harvald.com/</link>
+    <description>Recent content on Echoppe du Net</description>
+    <image>
+      <title>Echoppe du Net</title>
+      <url>https://harvald.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://harvald.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 02 May 2023 20:18:04 +0200</lastBuildDate><atom:link href="https://harvald.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guide complet pour nettoyer un PC infecté (2023)</title>
+      <link>https://harvald.com/posts/desinfecter-pc/</link>
+      <pubDate>Tue, 02 May 2023 20:18:04 +0200</pubDate>
+      
+      <guid>https://harvald.com/posts/desinfecter-pc/</guid>
+      <description>Introduction Vous désirez un guide complet pour nettoyer votre ordinateur ? Je vous ai compilé les meilleures pratiques pour y arriver.
+Sachez tout de même qu&amp;rsquo;il est parfois difficile de supprimer entièrement un malware récalcitrant et qu&amp;rsquo;il est toujours mieux de faire une installation propre du système pour être sûr. Notez que l&amp;rsquo;outil de réinitialisation Windows ne fait PAS d&amp;rsquo;installation propre. Il faudra utiliser l&amp;rsquo;outil Media Creation Tool. J&amp;rsquo;aimerai vous partager quelques ressources qui pourront vous aider à dépanner vos problèmes d&amp;rsquo;informatiques.</description>
+    </item>
+    
+  </channel>
+</rss>
