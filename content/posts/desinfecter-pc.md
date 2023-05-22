@@ -29,14 +29,14 @@ Elles ont servies d'inspiration pour l'écriture de ce guide.
 # [Logiciels non-recommandés](#logiciels-non-recommandés)
 
 ## Les logiciels de nettoyage
-  CCleaner et à peu près tout les logiciels de **nettoyage**, **défragmentation**, **optimisation de la RAM** seront juste une surcouche de plus pour votre OS qui gère très bien la ram ainsi que le nettoyage des fichiers temporaires tout seul. <br/>
+  *CCleaner* et à peu près tout les logiciels de **nettoyage**, **défragmentation**, **optimisation de la RAM** seront juste une surcouche de plus pour votre OS qui gère très bien la ram ainsi que le nettoyage des fichiers temporaires tout seul. <br/>
   >Ces logiciels se lancent souvent au démarrage de votre PC et continuent à tourner en tâche de fond, dans une grande majorité des cas, ils consomment plus de ressources qu'ils n'en font économiser.<br/> <br/>
   > Si vous cherchez à récupérer de l'espace sur votre disque dur, je vous invite à chercher ***"Nettoyage de Disque"*** dans la recherche Windows.
 
   Les nettoyeurs de registre à la *CCleaner** (encore une fois) finissent souvent par causer plus de dommages que de bien à votre PC. <br/>
   > Je le répète, mais l'OS gère très bien tout ça.
 
-  ## Les Antivirus
+  ## Les Antivirus2
 Dans le cadre de la maison, et si vous faites preuve de bon sens, que vous ne téléchargez rien de suspect, que vous n'ouvrez pas de pièces jointes suspectes, que vous utilisez un bloqueur de pub et que votre boîte mail à un anti-spam, vous n'avez pas besoin de plus que Windows Defender, qui est inclus de base avec son système. <br/> <br/>
 Etant donné qu'il est developpé par Microsoft, il est bien plus optimisé pour le système que n'importe quel autre antivirus, et il consommera logiquement moins vos précieuses ressources.
 > Notez aussi qu'une grosse partie des antivirus (surtout gratuits) sont des [*Bloatwares*](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjNs5P4qNf-AhUwVKQEHZeEBlsQmhN6BAhdEAI&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FBloatware&usg=AOvVaw1rxAYEV993qfzbAJGcVoCC), les versions gratuites étant la pour que vous payiez un abonnement.
