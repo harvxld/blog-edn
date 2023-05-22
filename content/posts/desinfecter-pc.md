@@ -36,7 +36,7 @@ Elles ont servies d'inspiration pour l'écriture de ce guide.
   Les nettoyeurs de registre à la *CCleaner** (encore une fois) finissent souvent par causer plus de dommages que de bien à votre PC. <br/>
   > Je le répète, mais l'OS gère très bien tout ça.
 
-  ## Les Antivirus2
+  ## Les Antivirus
 Dans le cadre de la maison, et si vous faites preuve de bon sens, que vous ne téléchargez rien de suspect, que vous n'ouvrez pas de pièces jointes suspectes, que vous utilisez un bloqueur de pub et que votre boîte mail à un anti-spam, vous n'avez pas besoin de plus que Windows Defender, qui est inclus de base avec son système. <br/> <br/>
 Etant donné qu'il est developpé par Microsoft, il est bien plus optimisé pour le système que n'importe quel autre antivirus, et il consommera logiquement moins vos précieuses ressources.
 > Notez aussi qu'une grosse partie des antivirus (surtout gratuits) sont des [*Bloatwares*](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjNs5P4qNf-AhUwVKQEHZeEBlsQmhN6BAhdEAI&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FBloatware&usg=AOvVaw1rxAYEV993qfzbAJGcVoCC), les versions gratuites étant la pour que vous payiez un abonnement.
