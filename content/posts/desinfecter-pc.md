@@ -1,8 +1,8 @@
 ---
-title: "Guide complet pour nettoyer un PC infecté (2023)"
+title: "Les bonnes pratiques pour garder son PC propres & Désinfection"
 author: "harvald"
 date: 2023-05-02T20:18:04+02:00
-draft: false
+draft: true
 ---
 
 <br/>
@@ -22,7 +22,6 @@ J'aimerai vous partager quelques ressources qui pourront vous aider à dépanner
 Elles ont servies d'inspiration pour l'écriture de ce guide.
 
 - [r/TechSupport Wiki](https://rtech.support/docs/safety-security/malware-guide.html) 🇺🇸
-- [Awesome Open-Source](https://placeholder.com)
 
 
 

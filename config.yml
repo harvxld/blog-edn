@@ -1,5 +1,5 @@
 baseURL: "https://harvald.com"
-title: Echoppe du Net
+title: Harvald
 paginate: 5
 theme: PaperMod
 
@@ -16,8 +16,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Echoppe du Net
-  description: "echoppe du net"
+  title: Harvald
+  description: "ici c'est mon blog :)"
   keywords: [Blog, Portfolio, PaperMod]
   author: harvald
   # author: ["Me", "You"] # multiple authors
