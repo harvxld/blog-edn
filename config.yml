@@ -73,7 +73,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Bienvenue à l'Echoppe \U0001F44B"
+    Title: "Bienvenue \U0001F44B"
     Content: Prend 5 minutes pour lire un article :)
 
   socialIcons:
